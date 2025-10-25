@@ -33,7 +33,7 @@ As a key member of the project, I:
 
 🖥️ 📸**User Interface & Screenshots**  
 
-![Dashboard](screenshots/Screenshot 2025-10-25 125321.png)
+![Dashboard](https://github.com/swathisri2004/Organization-Users-Management/blob/5d7da49479d1cecff369fc78a0db09cbd4687f31/screenshots/Screenshot%202025-10-25%20125321.png)
 ![Organisations](screenshots/Screenshot 2025-10-25 125343.png)
 ![Users](screenshots/Screenshot 2025-10-25 125357.png)
 ![Addnewuser](screenshots/Screenshot 2025-10-25 125419.png)
