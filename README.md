@@ -34,12 +34,12 @@ As a key member of the project, I:
 🖥️ 📸**User Interface & Screenshots**  
 
 ![Dashboard](https://github.com/swathisri2004/Organization-Users-Management/blob/5d7da49479d1cecff369fc78a0db09cbd4687f31/screenshots/Screenshot%202025-10-25%20125321.png)
-![Organisations](screenshots/Screenshot 2025-10-25 125343.png)
-![Users](screenshots/Screenshot 2025-10-25 125357.png)
-![Addnewuser](screenshots/Screenshot 2025-10-25 125419.png)
-![Addneworganisation](screenshots/Screenshot 2025-10-25 125434.png)
-![Organisationdb](screenshots/Screenshot 2025-10-25 125619.png)
-![Usersdb](screenshots/Screenshot 2025-10-25 125643.png)
+![Organisations](https://github.com/swathisri2004/Organization-Users-Management/blob/672e78b871f48ffa090601724e8874d95c8ea92d/screenshots/Screenshot%202025-10-25%20125343.png)
+![Users](https://github.com/swathisri2004/Organization-Users-Management/blob/672e78b871f48ffa090601724e8874d95c8ea92d/screenshots/Screenshot%202025-10-25%20125357.png)
+![Addnewuser](https://github.com/swathisri2004/Organization-Users-Management/blob/672e78b871f48ffa090601724e8874d95c8ea92d/screenshots/Screenshot%202025-10-25%20125419.png)
+![Addneworganisation](https://github.com/swathisri2004/Organization-Users-Management/blob/672e78b871f48ffa090601724e8874d95c8ea92d/screenshots/Screenshot%202025-10-25%20125434.png)
+![Organisationdb](https://github.com/swathisri2004/Organization-Users-Management/blob/672e78b871f48ffa090601724e8874d95c8ea92d/screenshots/Screenshot%202025-10-25%20125619.png)
+![Usersdb](https://github.com/swathisri2004/Organization-Users-Management/blob/672e78b871f48ffa090601724e8874d95c8ea92d/screenshots/Screenshot%202025-10-25%20125643.png)
 
 
 
