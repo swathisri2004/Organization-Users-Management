@@ -4,10 +4,10 @@
 Managing users and organizations manually can be error-prone, time-consuming, and lacks structured oversight — especially in scenarios involving multiple organizations with different roles and memberships.  
 
 💡 **Solution**  
-We developed a full-stack web application to automate and streamline user and organization management. The platform allows administrators to manage organizations, assign users with specific roles, and maintain memberships efficiently, with a responsive and intuitive interface.  
+I developed a full-stack web application to automate and streamline user and organization management. The platform allows administrators to manage organizations, assign users with specific roles, and maintain memberships efficiently, with a responsive and intuitive interface.  
 
 👨‍💻 **My Role**  
-As a key member of the project, I:  
+I developed the project and:  
 - Implemented backend APIs using **Django REST Framework** to handle CRUD operations for organizations and users.  
 - Developed a **dynamic React frontend** to provide a seamless UI for administrators and users.  
 - Integrated the frontend with backend REST APIs for real-time data operations.  
@@ -20,8 +20,8 @@ As a key member of the project, I:
 
 ⚙️ **Tech Stack**  
 - **Backend:** Django REST Framework  
-- **Frontend:** React  
-- **Database:** SQL (SQLite/PostgreSQL)  
+- **Frontend:** React & Tailwind CSS 
+- **Database:** SQL (PostgreSQL)  
 - **Other Tools:** REST APIs, Postman for testing  
 
 ✨ **Key Features**  
