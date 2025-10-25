@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'orgmanagement.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'org_user_db',
+        'NAME': 'Organisation_user_db',
         'USER': 'postgres',
         'PASSWORD': '1234',
         'HOST': 'localhost',
